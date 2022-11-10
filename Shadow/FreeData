@@ -21889,12 +21889,13 @@ DOMAIN-SUFFIX,news.ycombinator.com,Proxy
 #Spotify
 RULE-SET,https://raw.githubusercontent.com/GhostKitty/ios_rule_script/master/rule/Shadowrocket/Spotify/Spotify.list,PROXY
 
-#wehcat
+#Wehcat
 RULE-SET,https://raw.githubusercontent.com/GhostKitty/ios_rule_script/master/rule/Shadowrocket/WeChat/WeChat.list,PROXY
 
 #BiliBili
 RULE-SET,https://raw.githubusercontent.com/GhostKitty/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list,PROXY
 
+#XiaoHongShu
 RULE-SET,https://raw.githubusercontent.com/GhostKitty/ios_rule_script/master/rule/Shadowrocket/XiaoHongShu/XiaoHongShu.list,PROXY
 
 
